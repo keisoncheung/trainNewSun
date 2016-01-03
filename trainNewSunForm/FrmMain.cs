@@ -167,7 +167,7 @@ namespace trainNewSun
             FrmAcountPwd frmA = new FrmAcountPwd();
             frmA.ShowDialog();
             if (frmA.result == true)
-            {
+            {  
                 FrmIncomeM frm = new FrmIncomeM(this, "I");
                 frm.Show();
             }

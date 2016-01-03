@@ -58,8 +58,7 @@
   <ItemGroup>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="PublicHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="PublicHelper">
       <HintPath>..\..\CodeHelper\bin\Debug\PublicHelper.dll</HintPath>
     </Reference>
     <Reference Include="System" />

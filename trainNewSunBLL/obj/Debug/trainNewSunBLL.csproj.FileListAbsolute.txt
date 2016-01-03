@@ -33,3 +33,12 @@ C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSunBLL\bin\Debug\Public
 C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSunBLL\obj\Debug\trainNewSunBLL.dll
 C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSunBLL\obj\Debug\trainNewSunBLL.pdb
 C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSunBLL\obj\Debug\trainNewSunBLL.csprojResolveAssemblyReference.cache
+C:\keison\code\trainNewSun\trainNewSunBLL\bin\Debug\trainNewSunBLL.dll
+C:\keison\code\trainNewSun\trainNewSunBLL\bin\Debug\trainNewSunBLL.pdb
+C:\keison\code\trainNewSun\trainNewSunBLL\bin\Debug\trainNewSunDAL.dll
+C:\keison\code\trainNewSun\trainNewSunBLL\bin\Debug\trainNewSunDAL.pdb
+C:\keison\code\trainNewSun\trainNewSunBLL\bin\Debug\PublicHelper.pdb
+C:\keison\code\trainNewSun\trainNewSunBLL\obj\Debug\trainNewSunBLL.csprojResolveAssemblyReference.cache
+C:\keison\code\trainNewSun\trainNewSunBLL\obj\Debug\trainNewSunBLL.dll
+C:\keison\code\trainNewSun\trainNewSunBLL\obj\Debug\trainNewSunBLL.pdb
+C:\keison\code\trainNewSun\trainNewSunBLL\bin\Debug\PublicHelper.dll

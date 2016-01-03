@@ -17,3 +17,7 @@ C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSun\bin\Debug\trainNewS
 C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSun\bin\Debug\trainNewSunDAL.pdb
 C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSun\obj\Debug\trainNewSunDAL.dll
 C:\keison\code\trainNewSun(20140320)\trainNewSun\trainNewSun\obj\Debug\trainNewSunDAL.pdb
+C:\keison\code\trainNewSun\trainNewSun\bin\Debug\trainNewSunDAL.dll
+C:\keison\code\trainNewSun\trainNewSun\bin\Debug\trainNewSunDAL.pdb
+C:\keison\code\trainNewSun\trainNewSun\obj\Debug\trainNewSunDAL.dll
+C:\keison\code\trainNewSun\trainNewSun\obj\Debug\trainNewSunDAL.pdb
